@@ -3,7 +3,7 @@ name: Q Code Transformation
 on:
   push:
     branches:
-      - 'DQ-TRANSFORM-issue-*'
+      - 'Q-TRANSFORM-issue-*'
 
 jobs:
   q-code-transformation:
